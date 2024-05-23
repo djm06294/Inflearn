@@ -1,2 +1,4 @@
 FLASK_FUNCODING_202403/
 .ipynb_checkpoints/
+js_backend/web_server/node_modules/
+js_backend/web_server/*.json
